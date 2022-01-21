@@ -1,10 +1,26 @@
-# SexUtils
+<h1 align="center"><u>S</u>hell <u>Ex</u>plorer</h1>
+<p align="center">Convenient files management utilities</p>
+<p align="center"><a href="https://github.com/NNBnh/terminal-explorer/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NNBnh/sex_utils?labelColor=DE5D6E&color=585858&style=for-the-badge" alt="License: MIT"></a> <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#development-completed"><img src="https://img.shields.io/badge/development-completed-%23585858.svg?labelColor=DE5D6E&style=for-the-badge&logoColor=FFFFFF" alt="Development completed"></a></p>
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/sex_utils`. To experiment with that code, run `bin/console` for an interactive prompt.
+## 💡 About
 
-TODO: Delete this and the text above, and describe your gem
+_#TODO_
 
-## Installation
+### 📔 Story
+
+_#TODO_
+
+### ✨ Features
+
+_#TODO_
+
+## 🚀 Setup
+
+### 🧾 Dependencies
+
+_#TODO_
+
+### 📥 Installation
 
 Add this line to your application's Gemfile:
 
@@ -14,30 +30,33 @@ gem 'sex_utils'
 
 And then execute:
 
-    $ bundle install
+```sh
+bundle install
+```
 
 Or install it yourself as:
 
-    $ gem install sex_utils
+```sh
+gem install sex_utils
+```
 
-## Usage
+## ⌨️ Usage
 
-TODO: Write usage instructions here
+_#TODO_
 
-## Development
+## ⚙️ Configuration
 
-After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake test` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
+_#TODO_
 
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and the created tag, and push the `.gem` file to [rubygems.org](https://rubygems.org).
+## 💌 Credits
 
-## Contributing
+Special thanks to:
+- [**File URI Specification**](https://www.freedesktop.org/wiki/Specifications/file-uri-spec) by [Freedesktop.org](https://www.freedesktop.org)
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/sex_utils. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/[USERNAME]/sex_utils/blob/main/CODE_OF_CONDUCT.md).
+<br><br><br><br>
 
-## License
+---
 
-The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
-## Code of Conduct
-
-Everyone interacting in the SexUtils project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/sex_utils/blob/main/CODE_OF_CONDUCT.md).
+> <h1 align="center">Made with ❤️ by <a href="https://github.com/NNBnh"><i>NNB</i></a></h1>
+>
+> <p align="center"><a href="https://www.buymeacoffee.com/nnbnh"><img src="https://img.shields.io/badge/buy_me_a_coffee%20-%23F7CA88.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge" alt="Buy Me a Coffee"></a></p>
