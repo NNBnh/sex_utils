@@ -1,6 +1,15 @@
 <h1 align="center"><u>S</u>hell <u>Ex</u>plorer</h1>
 <p align="center">Convenient files management utilities</p>
-<p align="center"><a href="https://github.com/NNBnh/terminal-explorer/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NNBnh/sex_utils?labelColor=DE5D6E&color=585858&style=for-the-badge" alt="License: MIT"></a> <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#development-completed"><img src="https://img.shields.io/badge/development-completed-%23585858.svg?labelColor=DE5D6E&style=for-the-badge&logoColor=FFFFFF" alt="Development completed"></a></p>
+<p align="center">
+  <a href="https://github.com/NNBnh/sex_utils/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NNBnh/sex_utils?labelColor=585858&color=DE5D6E&style=for-the-badge" alt="License: MIT"></a>
+  <a href="#TODO"><img src="https://img.shields.io/gitlab/coverage/NNBnh/sex-utils/main?labelColor=585858&color=DE5D6E&style=for-the-badge" alt="Coverage">
+  <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#work-in-progress"><img src="https://img.shields.io/github/last-commit/NNBnh/sex_utils?labelColor=585858&color=DE5D6E&style=for-the-badge" alt="Work in progress"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/NNBnh/sex_utils/actions"><img src="https://img.shields.io/github/workflow/status/NNBnh/sex_utils/Ruby?labelColor=585858&color=DE5D6E&style=flat-square" alt="Build"></a>
+  <a href="#TODO"><img src="https://img.shields.io/codeclimate/maintainability/NNBnh/sex_utils?labelColor=585858&color=DE5D6E&style=flat-square" alt="Maintainability">
+  <a href="https://rubygems.org/gems/sex_utils"><img src="https://img.shields.io/gem/dt/sex_utils?labelColor=585858&color=DE5D6E&style=flat-square" alt="Download"></a>
+</p>
 
 ## 💡 About
 
