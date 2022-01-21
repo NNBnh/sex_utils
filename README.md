@@ -1,4 +1,4 @@
-<h1 align="center"><u>S</u>hell <u>Ex</u>plorer</h1>
+<h1 align="center"><u>S</u>hell <u>EX</u>plorer</h1>
 <p align="center">Convenient files management utilities</p>
 <p align="center">
   <a href="https://github.com/NNBnh/sex_utils/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NNBnh/sex_utils?labelColor=585858&color=DE5D6E&style=for-the-badge" alt="License: MIT"></a>
@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/NNBnh/sex_utils/actions"><img src="https://img.shields.io/github/workflow/status/NNBnh/sex_utils/Ruby?labelColor=585858&color=DE5D6E&style=flat-square" alt="Build"></a>
-  <a href="TODO"><img src="https://img.shields.io/codacy/coverage/TODO?labelColor=585858&color=DE5D6E&style=flat-square" alt="Coverage"></a>
+  <!-- <img src="https://img.shields.io/codacy/coverage/TODO?labelColor=585858&color=DE5D6E&style=flat-square" alt="Coverage"> -->
   <a href="https://rubygems.org/gems/sex_utils"><img src="https://img.shields.io/gem/dt/sex_utils?labelColor=585858&color=DE5D6E&style=flat-square" alt="Download"></a>
 </p>
 
