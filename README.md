@@ -61,6 +61,7 @@ _TODO_
 Special thanks to:
 - [**File URI Specification**](https://www.freedesktop.org/wiki/Specifications/file-uri-spec) by [Freedesktop.org](https://www.freedesktop.org)
 - [**Trash-CLI**](https://github.com/andreafrancia/trash-cli) by [Andrea Francia](https://github.com/andreafrancia)
+- [**Edir**](https://github.com/bulletmark/edir)
 
 <br><br><br><br>
 
