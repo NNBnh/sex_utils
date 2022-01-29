@@ -60,8 +60,8 @@ _TODO_
 
 Special thanks to:
 - [**File URI Specification**](https://www.freedesktop.org/wiki/Specifications/file-uri-spec) by [Freedesktop.org](https://www.freedesktop.org)
-- [**Trash-CLI**](https://github.com/andreafrancia/trash-cli) by [Andrea Francia](https://github.com/andreafrancia)
-- [**Edir**](https://github.com/bulletmark/edir)
+- [**Trashy**](https://gitlab.com/trashy/trashy) by [Notklaatu](https://gitlab.com/notklaatu)
+- [**Edir**](https://github.com/bulletmark/edir) by [Mark Blakeney](https://github.com/bulletmark)
 
 <br><br><br><br>
 
