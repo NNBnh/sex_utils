@@ -26,7 +26,7 @@ _TODO_
 
 ### 🧾 Dependencies
 
-_TODO_
+- [Ruby 3.0 or above](https://www.ruby-lang.org/en/news/2020/12/25/ruby-3-0-0-released).
 
 ### 📥 Installation
 
@@ -55,13 +55,6 @@ _TODO_
 ## ⚙️ Configuration
 
 _TODO_
-
-## 💌 Credits
-
-Special thanks to:
-- [**File URI Specification**](https://www.freedesktop.org/wiki/Specifications/file-uri-spec) by [Freedesktop.org](https://www.freedesktop.org)
-- [**Trashy**](https://gitlab.com/trashy/trashy) by [Notklaatu](https://gitlab.com/notklaatu)
-- [**Edir**](https://github.com/bulletmark/edir) by [Mark Blakeney](https://github.com/bulletmark)
 
 <br><br><br><br>
 
